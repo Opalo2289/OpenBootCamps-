@@ -1,0 +1,23 @@
+{
+  "name": "openbootcampsentregas",
+  "version": "1.0.0",
+  "description": "entregables",
+  "main": "index.js",
+  "scripts": {
+    "saludar": "node hola_mundo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Opalo2289/OpenBootCampsGuedys.git"
+  },
+  "keywords": [
+    "openbootcamps"
+  ],
+  "author": "Guedys Angola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Opalo2289/OpenBootCampsGuedys/issues"
+  },
+  "homepage": "https://github.com/Opalo2289/OpenBootCampsGuedys#readme"
+}
