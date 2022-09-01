@@ -1,4 +1,4 @@
-const movil = {
+const dev = {
     nombre: "Enrique",
     edad: 33,
     eresDesarrollador: "true",
